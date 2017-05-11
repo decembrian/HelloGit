@@ -1,2 +1,3 @@
 # HelloGit
-guiding
+
+Hi there!
